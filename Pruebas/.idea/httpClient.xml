@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;654af03fa6edae59f534fca119e26ed3fb376d59&quot; value=&quot;###&amp;#10;GET http://localhost:8080/vehiculo/{{id}}&quot; /&gt;&#10;  &lt;entry key=&quot;5836edcbe0117a93f1172a9a30fb03c1f836c64c&quot; value=&quot;###&amp;#10;GET http://localhost:8080/reportes/km/{{id}}?&amp;#10;    Fecha desde={{$random.alphanumeric(8)}}&amp;amp;&amp;#10;    Fecha hasta={{$random.alphanumeric(8)}}&quot; /&gt;&#10;  &lt;entry key=&quot;ce41499a9f1bfe0a3c88ce091283d8b373bdb1c3&quot; value=&quot;###&amp;#10;GET http://localhost:8080/vehiculo/limites/{{id}}?&amp;#10;    Latitud={{$random.float(100)}}&amp;amp;&amp;#10;    Longitud={{$random.float(100)}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
